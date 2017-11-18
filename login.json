@@ -1,0 +1,29 @@
+{
+"code": 200,
+"message": "Login Success",
+"data": 
+    [
+	{
+		"id": "1",
+		"user_name": "admin",
+		"password": "admin123",
+		"full_name": "Ho Nguyen Quoc Hung",
+		"token": "",
+		"user" : "ck_daf9f45e6dd6c94b896fb9fe19a47c950319872a",
+		"pass" : "cs_09831b9a637dbbb0741e2bac178a2c7d6c797f69",
+		"api_location_key": "AIzaSyC4kVVO8HuMt6I9pRxJl7Yfrdbcu2zhkdM",
+		"type": "0"
+        },
+		{
+        "id": "2",
+		"user_name": "guest",
+		"password": "guest123",
+		"full_name": "Do Huu Phuoc",
+		"token": "",
+		"user" : "ck_daf9f45e6dd6c94b896fb9fe19a47c950319872a",
+		"pass" : "cs_09831b9a637dbbb0741e2bac178a2c7d6c797f69",
+		"api_location_key": "AIzaSyC4kVVO8HuMt6I9pRxJl7Yfrdbcu2zhkdM",
+		"type": "1"
+        }
+	]
+}
